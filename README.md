@@ -1,2 +1,2 @@
-# xu.github.io
+# ade-hale.github.io
 my blog
